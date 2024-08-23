@@ -33,6 +33,7 @@ toán và hiển thị dữ liệu một cách trực quan.
 5. Sử dụng Air Flow để lên lịch quá trình đọc và hiển thị dữ liệu từ Power PI sao cho dữ liệu
 luôn được update mỗi ngày.
 
-![Alt text](https://ibb.co/X2fjpG3)
+![Logo](architecture.png)
+
 
 
